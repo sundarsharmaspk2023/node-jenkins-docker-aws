@@ -6,5 +6,5 @@ const server = http.createServer((req, res)=>{
 })
 
 server.listen(4000, ()=>{
-    console.log('Server running at this1123456 http://localhost:4000');
+    console.log('Server running at 4000');
 })
