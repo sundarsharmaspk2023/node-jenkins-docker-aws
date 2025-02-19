@@ -5,6 +5,6 @@ const server = http.createServer((req, res)=>{
        res.end('Hello word');
 })
 
-server.listen(3000, ()=>{
-    console.log('Server running at this112 http://localhost:3000');
+server.listen(4000, ()=>{
+    console.log('Server running at this112 http://localhost:4000');
 })
