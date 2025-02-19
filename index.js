@@ -5,6 +5,6 @@ const server = http.createServer((req, res)=>{
        res.end('Hello word1');
 })
 
-server.listen(4000, ()=>{
-    console.log('Server running at 4000');
+server.listen(3001, ()=>{
+    console.log('Server running at 3001');
 })
